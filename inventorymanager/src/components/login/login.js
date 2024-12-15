@@ -172,7 +172,7 @@ const Login = () => {
             <button type="submit" className="btn btn-success w-100 btn-lg my-3 rounded-5">
               LOGIN
             </button>
-            {/* <div className="text-center">
+             {/* <div className="text-center">
               <h5>(or)</h5>
               <h5 className="my-3">
                 Don't have an account?
@@ -181,7 +181,7 @@ const Login = () => {
                 </Link>
                 Here
               </h5>
-            </div> */}
+            </div>  */}
           </form>
         </div>
       </div>
